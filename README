@@ -1,0 +1,9 @@
+These are 630/730MTG terminal downloadable programs given to me by
+people working for the former AT&T Bell-Labs Indian Hill Naperville IL
+location, now Nokia.  They are all little-endian COFF files suitable
+for uploading from x86 hosts.  Some of them came to me big-endian but
+I converted them on an SVR4 system running under virtual box using
+the m32conv program from the dev5620 package.
+
+Dave Dykstra
+6/25/21
