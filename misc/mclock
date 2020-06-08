@@ -1,0 +1,1 @@
+dmdld /e1/630local/630misc/llib/mclock.m "`date '+%y%m%d%w%H%M%S'`" $@
